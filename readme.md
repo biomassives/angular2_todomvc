@@ -1,10 +1,17 @@
-# ![TodoMVC](media/logo.png)
 
-> Helping you select an MV\* framework
-
-### [Website](http://todomvc.com)&nbsp;&nbsp;&nbsp;&nbsp;[Blog](http://blog.tastejs.com)&nbsp;&nbsp;&nbsp;&nbsp;[TasteJS](http://tastejs.com)
 
 [![Build Status](https://travis-ci.org/tastejs/todomvc.svg)](https://travis-ci.org/tastejs/todomvc)
+
+
+angular2
+
+not sure what this is about..
+
+The page build completed successfully, but returned the following warning:
+CNAME already taken: todomvc.com
+For information on troubleshooting Jekyll see:
+  https://help.github.com/articles/using-jekyll-with-pages#troubleshooting
+If you have any questions you can contact us by replying to this email.
 
 
 Developers these days are spoiled with choice when it comes to selecting an MV\* framework for structuring and organizing JavaScript web apps.
