@@ -4,8 +4,8 @@
 
 
 angular2
-
-not sure what this is about..
+ 
+note:
 
 The page build completed successfully, but returned the following warning:
 CNAME already taken: todomvc.com
